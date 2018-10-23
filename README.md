@@ -6,3 +6,4 @@ Python codes for some of my projects
 ## 3. Impact of Analyst Recommendation on stock return
 ### Downloaded data through databases of CRSP, Compustat, IBES from WRDS, linked the data with common indentifiers,
 ### mergeded the data and calculated the return on different recommendation scores.
+## 4. Extract holdings information from N-30D file and save into csv file.
